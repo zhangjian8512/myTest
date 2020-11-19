@@ -32,7 +32,7 @@
 | Git-2.13.0-64-bit.exe                            | 1、本机装的连接远程仓库的命令行客户端，就像是sqlplus.exe黑窗口。 2、其实它也自带GUI界面，只是太丑，所以才会出现TortoiseGit。                               3、由于git是分布式版本管理工具，所以git在不需要联网的情况下也具有完整的版本管理能力。也就说装了它以后，git的本地版本库也能创建了。 |
 | TortoiseGit-2.4.0.2-64bit.msi                    | 本机装的连接远程仓库的图形化客户端，就像是plsql Dev工具。其实还是推荐使用命令式的，简单得劲。 |
 | git-2.5.0.tar.gz                                 | 在lunix上搭建私有git服务器的压缩包。                         |
-| TortoiseGit-LanguagePack-2.4.0.0-64bit-zh_CN.msi | 客户端的汉化包，不推荐用，毕竟程序员要学习英语。             |
+| TortoiseGit-LanguagePack-2.4.0.0-64bit-zh_CN.msi | 客户端的汉化包，不推荐用，毕竟程序员要学习英语               |
 
 
 
